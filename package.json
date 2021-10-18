@@ -1,0 +1,31 @@
+{
+  "name": "socialMedia",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000S\u0000o\u0000c\u0000i\u0000a\u0000l\u0000M\u0000e\u0000d\u0000i\u0000a\u0000-\u0000R\u0000e\u0000s\u0000t\u0000A\u0000P\u0000I\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJPascoe/SocialMedia-RestAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJPascoe/SocialMedia-RestAPI/issues"
+  },
+  "homepage": "https://github.com/AJPascoe/SocialMedia-RestAPI#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "mongoose": "^6.0.7",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12"
+  }
+}
